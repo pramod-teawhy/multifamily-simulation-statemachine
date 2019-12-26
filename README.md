@@ -1,6 +1,6 @@
-# ABM W Statemachine
+# Multifamily Lease Simulation with Statemachine
 
-This repo contains the simulation code for units with a configurable statemachine.
+This repo contains the simulation code for Multifamily Leases/Units using Agent Based Modeling and a configurable statemachine.
 
 ## Running in headless mode
 ```python
